@@ -1,0 +1,7 @@
+name: SignPlugin
+version: '1.0'
+main: david.signplugin.SignPlugin
+api-version: '1.19'
+commands:
+  sign:
+  unsign:
